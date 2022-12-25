@@ -1,1 +1,40 @@
-
+{
+  "projects": [
+    {
+      "category": "Search Engine",
+      "title": "Beerde",
+      "description": "Indonesian children's work search engine.",
+      "link": "https://beerde.rf.gd"
+    },
+    {
+      "category": "Mobile App Downloader",
+      "title": "BeerdeMods",
+      "description": "Download the mod mobile app here!",
+      "link": "https://beerdemods.rf.gd"
+    },
+    {
+      "category": "Anonymous Q&A",
+      "title": "BeerdeAQNA",
+      "description": "Want to ask and answer without being noticed, only here. Try now!",
+      "link": "#"
+    },
+    {
+      "category": "Wallpaper Downloader",
+      "title": "BeerdeWallpaper",
+      "description": "Cool wallpapers for your cellphone. Try now!",
+      "link": "#"
+    },
+    {
+      "category": "Video Game Play",
+      "title": "BeerdePlay",
+      "description": "Various kinds of interesting games are here. Try now!",
+      "link": "#"
+    },
+    {
+      "category": "Movie Finder",
+      "title": "BeerdeFilm",
+      "description": "Find cool movies only here. Try now!",
+      "link": "#"
+    }
+  ]
+}
